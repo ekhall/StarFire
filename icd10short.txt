@@ -1,0 +1,30 @@
+00001 A00     0 Cholera                                                      Cholera
+00002 A000    1 Cholera due to Vibrio cholerae 01, biovar cholerae           Cholera due to Vibrio cholerae 01, biovar cholerae
+00003 A001    1 Cholera due to Vibrio cholerae 01, biovar eltor              Cholera due to Vibrio cholerae 01, biovar eltor
+00004 A009    1 Cholera, unspecified                                         Cholera, unspecified
+00005 A01     0 Typhoid and paratyphoid fevers                               Typhoid and paratyphoid fevers
+00006 A010    0 Typhoid fever                                                Typhoid fever
+00007 A0100   1 Typhoid fever, unspecified                                   Typhoid fever, unspecified
+00008 A0101   1 Typhoid meningitis                                           Typhoid meningitis
+00009 A0102   1 Typhoid fever with heart involvement                         Typhoid fever with heart involvement
+00010 A0103   1 Typhoid pneumonia                                            Typhoid pneumonia
+00011 A0104   1 Typhoid arthritis                                            Typhoid arthritis
+00012 A0105   1 Typhoid osteomyelitis                                        Typhoid osteomyelitis
+00013 A0109   1 Typhoid fever with other complications                       Typhoid fever with other complications
+00014 A011    1 Paratyphoid fever A                                          Paratyphoid fever A
+00015 A012    1 Paratyphoid fever B                                          Paratyphoid fever B
+00016 A013    1 Paratyphoid fever C                                          Paratyphoid fever C
+00017 A014    1 Paratyphoid fever, unspecified                               Paratyphoid fever, unspecified
+00018 A02     0 Other salmonella infections                                  Other salmonella infections
+00019 A020    1 Salmonella enteritis                                         Salmonella enteritis
+00020 A021    1 Salmonella sepsis                                            Salmonella sepsis
+00021 A022    0 Localized salmonella infections                              Localized salmonella infections
+00022 A0220   1 Localized salmonella infection, unspecified                  Localized salmonella infection, unspecified
+00023 A0221   1 Salmonella meningitis                                        Salmonella meningitis
+00024 A0222   1 Salmonella pneumonia                                         Salmonella pneumonia
+00025 A0223   1 Salmonella arthritis                                         Salmonella arthritis
+00026 A0224   1 Salmonella osteomyelitis                                     Salmonella osteomyelitis
+00027 A0225   1 Salmonella pyelonephritis                                    Salmonella pyelonephritis
+00028 A0229   1 Salmonella with other localized infection                    Salmonella with other localized infection
+00029 A028    1 Other specified salmonella infections                        Other specified salmonella infections
+00030 A029    1 Salmonella infection, unspecified                            Salmonella infection, unspecified
